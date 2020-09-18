@@ -99,7 +99,7 @@
 							<p>Ter a empresa na palma da mão é o que um gestor precisa, ter uma visão macro de sua empresa para decisões mais rápidas e assertivas para seu negócio, uma vez que todos os dados necessários para isso são detalhadamente exibidos no sistema.</p>
 						</div>
 						<div>
-							<p>O ERP permite que sua empresa funcione de uma maneira mais sincronizada, já que o sistema integra diferentes departamentos e tem a capacidade de automatizar atividades imprescindíveis otimizando o tempo.</p>
+							<p>O ERP Protheus, permite que sua empresa funcione de uma maneira mais sincronizada, já que o sistema integra diferentes departamentos e tem a capacidade de automatizar atividades imprescindíveis otimizando o tempo.</p>
 						</div>
 						<div>
 							<p>Um grande diferencial ao adotar a ferramenta totalmente automatizada, o risco é menor. As chances de acontecer um registro errado caem drasticamente, bem como os riscos de fraudes, uma vez que todos os dados estarão detalhadamente expostos. A ferramenta é altamente segura, especialmente pelo fato de o gestor conseguir controlar seu acesso, definindo qual funcionário poderá acessar certas informações.</p>
