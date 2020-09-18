@@ -1,0 +1,6 @@
+<!-- class='menu__item--current';
+{echo 'current'; } else { echo ''; }
+{echo class='menu__item--current'; } else { echo ''; }
+{echo class='active'; } else { echo ''; }
+/* <a <?php echo ($page == 'one') ? "class='active'" : ""; ?> -->
+                 href="index1.php">Tab1</a>/</li>-->

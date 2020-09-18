@@ -1,0 +1,5 @@
+GoDaddy
+	Número de Cliente: 126910556
+	Nome Usuário     : ctdtecnologia
+	PIN              : 2016
+	Senha            : CTDTecn0l0g!@
