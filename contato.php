@@ -157,8 +157,8 @@
 				</div>
 
 				<div class="col-md-7 contact-form">
-					<form name="MeuFormulario" method="POST" action="envia-email.php" autocomplete="off">
-					<!-- //formatação para o formulário -->
+					<form name="MeuFormulario" method="POST" enctype="multipart/form-data"> action="envia-email.php" autocomplete="off">
+					<!-- //formatação para o formulário adicionado enctype="multipart/form-data"> -->
 
 						<fieldset>
 							<legend>Formulário de contato</legend>
