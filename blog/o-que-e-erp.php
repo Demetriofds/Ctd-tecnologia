@@ -5,13 +5,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta charset="utf-8"> <!-- nova tag  -->
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<meta name="description" content="O que é ERP">
+		<meta name="description" content="O que é ERP - Gestão otimizada com processos especializada em seu segmento">
 		<meta name="copyright" content="© 2018 Thiago">
 		<meta name="geo.region" content="BR-SP">
 		<meta name="geo.country" content="Brasil">
-		<meta name="keywords" content="ERP, Totvs"/>
+		<meta name="keywords" content="ERP, Totvs, o que é ERP"/>
 
-		<meta property="og:url" content="https://www.ctdtecnologia.com.br/"/>
+		<meta property="og:url" content="https://www.ctdtecnologia.com.br/o-que-e-erp.php"/>
 		<meta property="og:type" content="website">
 		<meta property="og:title" content="CTD Tecnologia - ERP TOTVS Protheus">
 		<meta property="og:description"  content="ERP TOTVS Protheus"/>

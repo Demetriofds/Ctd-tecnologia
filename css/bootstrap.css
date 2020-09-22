@@ -5056,11 +5056,13 @@ a.thumbnail.active {
   background-color: #dff0d8;
   border-color: #d6e9c6;
 }
+
 .alert-success hr {
   border-top-color: #c9e2b3;
 }
 .alert-success .alert-link {
   color: #2b542c;
+  
 }
 .alert-info {
   color: #31708f;

@@ -21,7 +21,7 @@
 		<meta property="fb:admins" content="thiago.dejesus.180410"/>
 
 		<!-- //custom-theme -->
-		<link rel="canonical" href="https://www.ctdtecnologia.com.br/"/>
+		<link rel="canonical" href="https://www.ctdtecnologia.com.br/blog.php" />
 		<link rel="shortcut icon" href="imagens/ctd-tecnologia-favicon.jpg" type="image/x-icon">
 		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 		<link href="css/JiSlider.css" rel="stylesheet">
@@ -96,18 +96,24 @@
 					<div class="clearfix"> </div>
 					<Section class="caixas-blog ">
 						<div class="alert alert-info" role="alert">
+							<h2>Promoção Setembro</h2>
+							<p>01/09/2020</p>
+							<button class="blog"><a href="blog/promocao.php">Link</a></button>
+						</div>
+						<div class="alert alert-info" role="alert">
 							<h2>Instrução Normativa</h2>
-							<p>17/08/2020</p>
-							<div class="more">
-								<a href="blog/prorrogacao-de-prazo.php">Link</a>
-							</div>
+							<p>10/09/2020</p>
+							<button class="blog"><a href="blog/prorrogacao-de-prazo.php">Link</a></button>
 						</div>
 						<div class="alert alert-info" role="alert">
 							<h2>O que é ERP</h2>
 							<p>16/09/2020</p>
-							<div class="more">
-								<a href="blog/o-que-e-erp.php">Link</a>
-							</div>
+							<button class="blog"><a href="blog/o-que-e-erp.php">Link</a></button>
+						</div>
+						<div class="alert alert-info" role="alert">
+							<h2>Produtos ERP</h2>
+							<p>21/09/2020</p>
+							<button class="blog"><a href="blog/modulos-erp.php">Link</a></button>
 						</div>
 					</Section>
 				</div>

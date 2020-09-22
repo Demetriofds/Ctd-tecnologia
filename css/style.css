@@ -231,10 +231,29 @@ p.logo_w3l_agile_caption {   /* verificar*/
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-.search button:hover{
-    border: solid 1px #212121;
-    background: #212121;
+/*botões do blog*/
+button{
+    background-color: #5096bc;
+    border: 2px solid #5096bc;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    width: 100%;
 }
+button a, a:hover{
+    color: #fff ;
+}
+
+button:hover{
+    background: rgb(19,19,19);
+    color: #fff;
+    border: 2px solid rgb(19,19,19);
+    transition:.5s ease-in;
+	-webkit-transition:.5s ease-in;
+	-moz-transition:.5s ease-in;
+	-o-transition:.5s ease-in;
+	-ms-transition:.5s ease-in;
+}
+
 .search button:hover i.fa.fa-paper-plane-o{
     color: #fff ;
 }
@@ -646,10 +665,14 @@ h1 {
     font-weight: 700;
     text-align: center;
 }
+.caixas-blog h3{
+    margin-bottom: 1.2rem;
+    text-align: center;
+}
 
 .caixas-blog p{
     text-align: justify;
-    font-size: 12px;
+    font-size: 16px;
     margin-top: 10px;
     line-height: 1.4em;
 }
@@ -660,6 +683,13 @@ h1 {
     font-size: 16px;
     margin-top: 10px;
     text-indent: 2.5em;
+}
+/* Ajuste da posição do texto dentro do alert pagina produtos*/
+.blocos-itens p{
+    margin: 0;
+    color: #0617af;
+    text-align: center;
+    font-weight:500;
 }
 
 .more {
