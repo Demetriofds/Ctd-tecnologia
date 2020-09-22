@@ -15,7 +15,7 @@
 		<meta property="og:type" content="website">
 		<meta property="og:title" content="CTD Tecnologia - Sistemas ERP TOTVS Protheus">
 		<meta property="og:description"  content="Blog da CTD Tecnologia"/>
-		<meta property="og:image" content="https://www.ctdtecnologia.com.br/imagens/banner-servicos-erp-fundo.png"/>
+		<meta property="og:image" content="/imagens/blog.jpg" />
 		<meta property="og:site_name" content="CTD Tecnologia">
 		<meta property="article:tag" content="Informações, Notícias, ERP, CRM, Legislação, tributação,"/>
 		<meta property="fb:admins" content="thiago.dejesus.180410"/>
