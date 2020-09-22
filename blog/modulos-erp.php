@@ -60,7 +60,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<h1><a class="navbar-brand" href="index.php">CTD Tecnologia - ERP TOTVS Protheus</a></h1>
+							<h1><a class="navbar-brand" href="../index.php">CTD Tecnologia - ERP TOTVS Protheus</a></h1>
 						</div>
 						<!-- Menu -->
 						<?php include_once('../includes/menu-blog.php'); ?>
