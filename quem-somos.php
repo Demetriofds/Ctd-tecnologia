@@ -110,19 +110,19 @@
 						<section class="caixas">
 							<div>
 								<h3>Missão</h3>
-								<div class="alert alert-info" role="alert">
+								<div class="alert alert-info destaque-cor center-block" role="alert">
 									<P>Levar a melhor tecnologia para a sua empresa, garantindo assim 100% do funcionamento do seu sistema.</P>
 								</div>
 							</div>
 							<div>
 								<h3>Visão</h3>
-								<div class="alert alert-info" role="alert">
+								<div class="alert alert-info destaque-cor center-block" role="alert">
 									<p>Oferecer  serviço de qualidade, com preço justo, otimizando sempre o tempo. Nos tornando assim líder no setor.</P>
 								</div>
 							</div>
 							<div>
 								<h3>Valores</h3>
-								<div class="alert alert-info" role="alert">
+								<div class="alert alert-info destaque-cor center-block" role="alert">
 									<p>Transparência, ética, comprometimento e relacionamento com clientes, são valores que nos conduzem.</p>
 								</div>
 							</div>

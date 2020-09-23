@@ -96,14 +96,9 @@
 					<div class="clearfix"> </div>
 					<Section class="caixas-blog ">
 						<div class="alert alert-info" role="alert">
-							<h2>Promoção Setembro</h2>
-							<p>01/09/2020</p>
-							<button class="blog"><a href="blog/promocao.php">Link</a></button>
-						</div>
-						<div class="alert alert-info" role="alert">
-							<h2>Instrução Normativa</h2>
-							<p>10/09/2020</p>
-							<button class="blog"><a href="blog/prorrogacao-de-prazo.php">Link</a></button>
+							<h2>Produtos ERP</h2>
+							<p>21/09/2020</p>
+							<button class="blog"><a href="blog/modulos-erp.php">Link</a></button>
 						</div>
 						<div class="alert alert-info" role="alert">
 							<h2>O que é ERP</h2>
@@ -111,9 +106,14 @@
 							<button class="blog"><a href="blog/o-que-e-erp.php">Link</a></button>
 						</div>
 						<div class="alert alert-info" role="alert">
-							<h2>Produtos ERP</h2>
-							<p>21/09/2020</p>
-							<button class="blog"><a href="blog/modulos-erp.php">Link</a></button>
+							<h2>Instrução Normativa</h2>
+							<p>10/09/2020</p>
+							<button class="blog"><a href="blog/prorrogacao-de-prazo.php">Link</a></button>
+						</div>
+						<div class="alert alert-info" role="alert">
+							<h2>Promoção Setembro</h2>
+							<p>01/09/2020</p>
+							<button class="blog"><a href="blog/promocao.php">Link</a></button>
 						</div>
 					</Section>
 				</div>

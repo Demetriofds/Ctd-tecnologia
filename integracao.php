@@ -189,10 +189,10 @@
 					<img src="imagens/icone-construcao-de-projetos.jpg" alt="Imagem do icone de Construção de Projetos" class="img-responsive">
 					<h3>Obras / Projetos</h3>
 				</div>
-				<div>
+				<!-- <div>
 					<img src="imagens/icones-educacao.jpg" alt="Imagem do icone Educação" class="img-responsive">
 					<h3>Educação</h3>
-				</div>
+				</div> -->
 			</section>
 		</div>
 		<div class="clearfix"> </div>

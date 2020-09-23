@@ -625,6 +625,10 @@ h1 {
     /* font-weight: 700; */
     text-align: center;
 }
+/* alteração para pagina integração */
+.caixas > div > h3 {
+    text-align: center;
+}
 
 .caixas > div > p {
     margin: 1em;
@@ -649,8 +653,13 @@ h1 {
     flex: 1 1 200px;
     margin: 10px;
 }
-/*ajustando o blog pagina blog*/
+/*destaque para pagina quem somos*/
+.destaque-cor > p{
+    font-weight: 500;
+    color: #000;
+}
 
+/*ajustando o blog pagina blog*/
 .caixas-blog{
     display: flex;
     flex-wrap: wrap;
