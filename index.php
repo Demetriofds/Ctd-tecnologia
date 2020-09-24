@@ -75,7 +75,7 @@
 			<!-- //header -->
 			<!-- banner -->
 			<div class="banner-silder"> <!--Este banner esta solto -->
-				<div id="JiSlider" class="jislider">
+				<div id="JiSlider" class="jislider"> <!--aonde esta esta classe -->
 					<ul>
 						<li>
 							<div class="banner-top banner-top1">
@@ -147,7 +147,7 @@
 							<p>Nós focamos em resultados e possuímos o melhor para seu negócio, profissionais qualificados e especialistas, preparados para apoiar sua empresa com as principais ferramentas de gestão do mercado.</P>
 
 							<div class="more">
-								<a href="quem-somos.php">LInk -> Quem Somos</a>
+								<a href="quem-somos.php">Link -> Quem Somos</a>
 							</div>
 						</div>
 						<!-- <div class="clearfix"></div> -->
