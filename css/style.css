@@ -2366,8 +2366,16 @@ border-radius: 10px;
     color: #fff;
     font-size: 3em;
 }
-.banner-top1,.banner-top2,.banner-top3,.banner-top4 {
-    min-height: 530px;/*anterior 860*/
+.banner-top1,.banner-top2,.banner-top3,.banner-top4 { 
+    min-height: 500px;/*anterior 860*/
+}
+/*diminuindo o banner da pagina blog*/
+.banner-topo-blog{ /*coloquei o banner-top-blog*/
+    min-height: 200px;
+}
+/*diminuindo o banner da pagina serviços*/
+.ctd-servicos-erp{
+    min-height: 200px;
 }
 .banner-info {
     padding: 15em 0 0; /*tirado o em do 0*/
@@ -2403,6 +2411,7 @@ border-radius: 10px;
     font-size: 2.8em;
     letter-spacing: 1px;
 }
+
 .about-left {
     width: 80%;
     margin: 2em auto;
@@ -2472,12 +2481,20 @@ border-radius: 10px;
         background: url(../imagens/ctd-tecnologia-celular.webp) no-repeat 0px -88px  ;
         background-size: cover;
     }
-}
+    /*alterando o tamanho e a posição do banner*/
+    .ctd-servicos-erp{
+        background: url(../imagens/ctd-servicos-erp.jpg) no-repeat;
+        background-size: cover;
+    }
+
 @media(max-width:767px){
 	div#bs-example-navbar-collapse-1 {
     position: absolute;
     width: 100%;
     z-index: 999;
+}
+.banner-top1, .banner-top2, .banner-top3,.banner-top4{
+    min-height: 400px;
 }
 .navbar-default .navbar-nav > li > a {
     width: 25%;
@@ -2505,6 +2522,9 @@ li.menu__item {
     width: 50%;
     margin: 0 auto 2em;
 }
+.banner-top1, .banner-top2, .banner-top3,.banner-top4{
+    min-height: 400px;
+}
 li.menu__item {
     background: #5096bc87;
 }
@@ -2515,6 +2535,9 @@ li.menu__item {
 @media(max-width:734px){
 .search-grid {
     width: 35%;
+}
+.banner-top1, .banner-top2, .banner-top3,.banner-top4{
+    min-height: 375px;
 }
 }
 @media(max-width:667px){
@@ -2528,8 +2551,19 @@ li.menu__item {
     padding: 3em 0;
 }
 .ctd-tecnologia-quem-somos {
-    background: url(../imagens/ctd-quem-somos.jpg) no-repeat 0px -10px;
+    background: url(../imagens/ctd-quem-somos.jpg) no-repeat;
     background-size: cover;
+}
+.ctd-servicos-erp{
+    background: url(../imagens/ctd-servicos-erp.jpg) no-repeat;
+    background-size: cover;
+}
+.banner-topo-blog{
+    background: url(../imagens/banner-topo-blog.webp) no-repeat;
+    background-size: cover;
+}
+.banner-top1, .banner-top2, .banner-top3, .banner-top4{
+    min-height: 325px;
 }
 }
 @media(max-width:640px){
@@ -2537,13 +2571,12 @@ li.menu__item {
     width: 100%;
     float: left;
 }
+.banner-top1, .banner-top2, .banner-top3, .banner-top4{
+    min-height: 300px;
+}
 .w3-heading-all h2,
 .w3-heading-all h3 {
-    font-size: 2.5em;/*o original esta cin 2.8*/
-}
-
-.address h4 {
-    font-size: 2em;
+    font-size: 2.8em;
 }
 }
 @media(max-width:600px){
@@ -2551,6 +2584,12 @@ li.menu__item {
     color: #fff;
     font-size: 2.3em;
     letter-spacing: 1px;
+}
+.banner-top1, .banner-top2, .banner-top3,.banner-top4{
+    min-height: 200px;
+}
+.banner-topo-blog{ /*coloquei o banner-top-blog*/
+    min-height: 200px;
 }
 .banner-info {
     padding: 13em 0 0;
@@ -2583,6 +2622,9 @@ li.menu__item {
 }
 }
 @media(max-width:568px){
+    .banner-top1, .banner-top2, .banner-top3,.banner-top4{
+        min-height: 200px;
+    }
 	.w3l_testimonial_grid {
     padding: 4em 0 2em;
 }
@@ -2600,6 +2642,9 @@ li.menu__item {
 }
 }
 @media(max-width:480px){
+    .banner-top1, .banner-top2, .banner-top3,.banner-top4{
+        min-height: 200px;
+    }
 	.search-grid {
     width: 44%;
     margin: 1em 0;
@@ -2643,7 +2688,10 @@ li.menu__item {
 }
 @media(max-width:414px){
 .banner-top1, .banner-top2, .banner-top3,.banner-top4{
-    min-height: 400px;
+    min-height: 200px;
+}
+.banner-topo-blog{ /*coloquei o banner-top-blog*/
+    min-height: 200px;
 }
 .w3-services-grid-info {
     width: 100%;
