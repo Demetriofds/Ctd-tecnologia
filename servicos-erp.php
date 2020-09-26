@@ -251,8 +251,12 @@
 		<script src="js/jquery-2.1.4.min.js"></script>
 		<!-- js for Counter -->
 		<script type="text/javascript" src="js/numscroller-1.0.js"></script>
-		<!-- /js for Counter -->
-		<script src="js/SmoothScroll.min.js"></script>
+		<!-- /js for Counter 
+		<script src="js/SmoothScroll.min.js"></script>-->
+
+		<!-- Novo script 26/09 -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js" integrity="sha512-HaoDYc3PGduguBWOSToNc0AWGHBi2Y432Ssp3wNIdlOzrunCtB2qq6FrhtPbo+PlbvRbyi86dr5VQx61eg/daQ==" crossorigin="anonymous"></script>
+
 		<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
 		<script type="text/javascript" src="js/easing.js"></script>

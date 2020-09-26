@@ -117,12 +117,17 @@
 
 		<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 
-			<!-- js -->
-		<script src="js/jquery-2.1.4.min.js"></script>
+		<!-- js 26/09 -->
+		<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
 		<!-- js for Counter -->
 		<script type="text/javascript" src="js/numscroller-1.0.js"></script>
-		<!-- /js for Counter -->
-		<script src="js/SmoothScroll.min.js"></script>
+		<!-- /js for Counter 
+		<script src="js/SmoothScroll.min.js"></script>-->
+		
+		<!-- Novo script 26/09 -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js" integrity="sha512-HaoDYc3PGduguBWOSToNc0AWGHBi2Y432Ssp3wNIdlOzrunCtB2qq6FrhtPbo+PlbvRbyi86dr5VQx61eg/daQ==" crossorigin="anonymous"></script>
+
 		<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
 		<script type="text/javascript" src="js/easing.js"></script>
@@ -138,14 +143,14 @@
 		<!-- here stars scrolling icon -->
 		<script type="text/javascript">
 			$(document).ready(function() {
-				/*
+				
 					var defaults = {
 					containerID: 'toTop', // fading element id
 					containerHoverID: 'toTopHover', // fading element hover id
 					scrollSpeed: 1200,
 					easingType: 'linear'
 					};
-				*/
+				
 
 				$().UItoTop({ easingType: 'easeOutQuart' });
 

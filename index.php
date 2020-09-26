@@ -439,9 +439,12 @@
 
 		<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 
-		<!-- js -->
+		<!-- js se alterar para a versão nova desmonta o slider-->
+		
 		<script src="js/jquery-2.1.4.min.js"></script>
+		<!--Slider -->
 		<script src="js/JiSlider.js"></script>
+		
 		<script>
 			$(window).load(function () {
 				$('#JiSlider').JiSlider({color: '#fff', start: 3, reverse: false}).addClass('ff')
@@ -479,11 +482,10 @@
 			  });
 			});
 		</script>
-		<!-- //carousal -->
-		<script src="js/SmoothScroll.min.js"></script>
-		<!-- start-smoth-scrolling -->
-		<!-- //for bootstrap working -->
-
+		<!-- Novo script 26/09 -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js" integrity="sha512-HaoDYc3PGduguBWOSToNc0AWGHBi2Y432Ssp3wNIdlOzrunCtB2qq6FrhtPbo+PlbvRbyi86dr5VQx61eg/daQ==" crossorigin="anonymous"></script>
+		
+		
 		<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
 		<script type="text/javascript" src="js/easing.js"></script>
@@ -500,12 +502,12 @@
 		<script type="text/javascript">
 			$(document).ready(function() {
 
-					// var defaults = {
-					// containerID: 'toTop', // fading element id
-					// containerHoverID: 'toTopHover', // fading element hover id
-					// scrollSpeed: 1200,
-					// easingType: 'linear'
-					// };
+					 var defaults = {
+					 containerID: 'toTop', // fading element id
+					 containerHoverID: 'toTopHover', // fading element hover id
+					 scrollSpeed: 1200,
+					 easingType: 'linear'
+					 };
 
 
 				$().UItoTop({ easingType: 'easeOutQuart' });
