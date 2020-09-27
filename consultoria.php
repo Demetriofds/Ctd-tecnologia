@@ -125,16 +125,18 @@
 				</div>
 			</section>
 			<div class="container">
-					<div class="w3-heading-all">
-						<h2 style="font-size: 1.5em; font-weight: 600; margin-top:1em;">OFERECEMOS A MELHOR EXPERIÊNCIA EM CONSULTORIA</h2>
-					</div>
+				<div class="w3-heading-all">
+					<h2 style="font-size: 1.5em; font-weight: 600; margin-top:1em;">OFERECEMOS A MELHOR EXPERIÊNCIA EM CONSULTORIA</h2>
+				</div>
 			</div>
-					<section class="caixas">
-						<p style="text-align: justify; margin-bottom: 1em;">O ERP mais utilizado do Brasil não poderia deixar de vir acompanhado por soluções
-						especializadas e desenvolvidas de acordo com os processos característicos de cada segmento.</p>
-					</section>
+				<section class="caixas">
+					<p style="text-align: justify; margin-bottom: 1em;">O ERP mais utilizado do Brasil não poderia deixar de vir acompanhado por soluções
+					especializadas e desenvolvidas de acordo com os processos característicos de cada segmento.</p>
+				</section>
+
 			<div class="clearfix"></div>
-			<section class="caixas">
+
+			<section class="caixas img">
 				<div>
 					<img src="imagens/consultoria-excelencia.jpg" alt="Imagem do ícone consultoria em excelência" class="img-responsive">
 					<h3> Excelência</h3>

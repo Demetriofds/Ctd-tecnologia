@@ -139,7 +139,9 @@
 						<p style="text-align: justify; margin-bottom: 1em;">O ERP mais utilizado do Brasil não poderia deixar de vir acompanhado por soluções
 						especializadas e desenvolvidas de acordo com os processos característicos de cada segmento.</p>
 					</section>
+
 			<div class="clearfix"></div>
+			
 			<section class="caixas">
 				<div>
 					<img src="imagens/icone-agro.jpg" alt="Imagem do ícone do Agro negócio" class="img-responsive">

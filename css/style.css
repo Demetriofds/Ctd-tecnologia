@@ -238,8 +238,9 @@ button{
     font-size: 1.2rem;
     margin-top: 1rem;
     width: 100%;
+    cursor: pointer;
 }
-button a, a:hover{
+button a:hover{
     color: #fff ;
 }
 
@@ -251,7 +252,8 @@ button:hover{
 	-webkit-transition:.5s ease-in;
 	-moz-transition:.5s ease-in;
 	-o-transition:.5s ease-in;
-	-ms-transition:.5s ease-in;
+    -ms-transition:.5s ease-in;
+    cursor: pointer;
 }
 
 .search button:hover i.fa.fa-paper-plane-o{
@@ -638,7 +640,7 @@ h1 {
     background-color: #0a9dbd;
 }
 /*alterando as imagens*/
-.img {
+.caixas div img {
     max-width: 100%;
     align-content: center;
     /* display: block; */
@@ -818,26 +820,34 @@ h1 {
      /* background-color: rgb(5, 43, 94); */
     background-size: cover;
     min-height:455px;
-	}
-	.w3-services-grid-right i {
+}
+.w3-services-grids2{
+    background: url(/imagens/blog.webp) no-repeat 0px -226px;
+    background-color: rgb(5, 43, 94);
+   background-size: cover;
+   min-height:455px;
+}
+
+.w3-services-grid-right i {
     font-size: 3em;
     color: #5096bc;
-	}
-	.w3-services-grid-info {
+}
+.w3-services-grid-info {
     margin: 2em 0;
-	}
-	.w3-services-grid-right {
+}
+.w3-services-grid-right {
     background:rgba(120, 113, 113, 0.32);
-       padding: 2em 2em;
-	}
-	.w3-services-grid-right1 h2 {
+    padding: 2em 2em;
+}
+.w3-services-grid-right1 h2 {
     color: rgb(255, 255, 255);
     font-size: 1em;
     line-height: 1.7em;
     font-weight: 700;
     font-size: medium;
-	}
-	/*-- //services --*/
+}
+
+/*-- //services --*/
 /*-- //team --*/
 .team-social {
     -webkit-transition: all 0.5s;
@@ -999,7 +1009,8 @@ h1 {
 .w3l_testimonial_grid{/*-- //altera a grade do carrosel --*/
     padding: 1em;
 	background: #45668e;
-	margin: 2em 5em 1em 2em;
+    margin: 2em 5em 1em 2em;
+    border-radius:10%;
 }
  .w3l_testimonial_grid:focus,.agileits_testimonial_grid:focus{
 	outline:none;
@@ -1024,7 +1035,7 @@ h1 {
 }
 .w3l_testimonial_grid p{
 	color:#fff;
-	line-height:1em;
+	line-height:0.5em;
     position:relative;
     text-align: center;
     margin-top: 10px;
@@ -2859,6 +2870,6 @@ li.menu__item {
     margin-top: 1em;
 }
 }
-
+}
 
 /*-- /responsive design --*/

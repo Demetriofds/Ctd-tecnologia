@@ -324,7 +324,7 @@
 									<div class="w3l_testimonial_grid_pos">
 										<a href="#" target="_blank"><img src="imagens/civiloc.jpg" alt="Civiloc" class="img-responsive" /></a>
 									</div>
-									<p>CIVILOC - Ind e Com.</p>
+									<p>CIVILOC - Ind/Com.</p>
 								</div>
 							</div>
 							<div class="agileits_testimonial_grid">
@@ -340,7 +340,7 @@
 									<div class="w3l_testimonial_grid_pos">
 										<a href="https://www.telematica.com.br/" target="_blank"><img src="imagens/telematica.jpg" alt="Telemática" class="img-responsive" /></a>
 									</div>
-									<p>Telemática Ind Com.</p>
+									<p>Telemática I. Com.</p>
 								</div>
 							</div>
 							<div class="agileits_testimonial_grid">
@@ -354,7 +354,69 @@
 						</section>
 					</div>
 				</div>
+			</div><!-- services -->
+			<div class="services" id="services">
+				<div class="w3-heading-all">
+					<h3>serviços</h3>
+				</div>
+				<!-- container -->
+				<div class="w3-services-grids">
+					<div class="col-md-6 w3-services-grid-left"></div>
+					<div class="col-md-6 w3-services-grid-right">
+						<div class=" w3-services-grid-info">
+							<div class="col-md-2 w3-services-grid-left1">
+								<i class="fa fa-check" aria-hidden="true"></i>
+							</div>
+							<div class="w3-services-grid-right1">
+								<h2>Análise e atualização de cadastros e Geração dos Arquivos</h2>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+
+						<div class=" w3-services-grid-info">
+							<div class="col-md-2 w3-services-grid-left1">
+								<i class="fa fa-check" aria-hidden="true"></i>
+							</div>
+							<div class="col-md-10 w3-services-grid-right1">
+								<h2>Instalação do software ERP validador dos arquivos</h2>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+
+						<div class=" w3-services-grid-info">
+							<div class="col-md-2 w3-services-grid-left1">
+								<i class="fa fa-check" aria-hidden="true"></i>
+							</div>
+							<div class="col-md-10 w3-services-grid-right1">
+								<h2>Treinamento dos usuários na geração dos arquivos</h2>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+
+						<div class=" w3-services-grid-info">
+							<div class="col-md-2 w3-services-grid-left1">
+								<i class="fa fa-check" aria-hidden="true"></i>
+							</div>
+							<div class="col-md-10 w3-services-grid-right1">
+								<h2>Validação dos arquivos junto aos órgãos competentes</h2>
+							</div>
+						</div>
+
+						<div class="clearfix"></div>
+
+						<!--link botão para a pagina serviços-->
+						<div class="col-md-6 w3-services-grid-right1">
+							<div class="more">
+								<a href="servicos-erp.php">Link -> Serviços ERP</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				<!-- //container -->
 			</div>
+			<!-- //services -->
+
 		</div>
 		<?php include_once('includes/rodape.php'); ?>
 
@@ -447,9 +509,10 @@
 		
 		<script>
 			$(window).load(function () {
-				$('#JiSlider').JiSlider({color: '#fff', start: 3, reverse: false}).addClass('ff')
+				$('#JiSlider').JiSlider({color: '#fff', start: 4, reverse: false}).addClass('ff')
 			})
 		</script>
+		
 		<!-- carousal -->
 		<script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
 		<script type="text/javascript">
