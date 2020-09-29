@@ -290,7 +290,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-										<a href="https://br.mitsubishielectric.com/pt/" target="_blank"><img src="imagens/mitsubishi-eletric.jpg" alt="Mitsubishi Eletric" class="img-responsive" /></a>
+										<a href="https://br.mitsubishielectric.com/pt/" target="_blank"><img src="imagens/mitsubishi-eletric.jpg" alt="Imagem Empresa Mitsubishi Eletric" class="img-responsive" /></a>
 									</div>
 									<p>Mitsubishi Eletric</p>
 								</div>
@@ -298,7 +298,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-										<a href="https://www.icatel.com.br/" target="_blank"><img src="imagens/icatel.jpg"  alt="Icatel Telefonia" class="img-responsive" /></a>
+										<a href="https://www.icatel.com.br/" target="_blank"><img src="imagens/icatel.jpg"  alt="Imagem Empresa Icatel Telefonia" class="img-responsive" /></a>
 									</div>
 									<p>Icatel - Telefonia</p>
 								</div>
@@ -306,7 +306,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-										<a href="https://www.anvi.com.br/" target="_blank"><img src="imagens/anvi.jpg" alt="Anvi Comercio Industria" class="img-responsive" /></a>
+										<a href="https://www.anvi.com.br/" target="_blank"><img src="imagens/anvi.jpg" alt="Imagem Empresa Anvi Comercio Industria" class="img-responsive" /></a>
 									</div>
 									<p>ANVI - Com. e Ind.</p>
 								</div>
@@ -314,7 +314,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-										<a href="https://www.asus.com/br/" target="_blank"><img src="imagens/asus.jpg" alt="Asus Brasil" class="img-responsive" /></a>
+										<a href="https://www.asus.com/br/" target="_blank"><img src="imagens/asus.jpg" alt="Imagem Empresa Asus Brasil" class="img-responsive" /></a>
 									</div>
 									<p>Asus Brasil</p>
 								</div>
@@ -322,7 +322,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-										<a href="#" target="_blank"><img src="imagens/civiloc.jpg" alt="Civiloc" class="img-responsive" /></a>
+										<a href="#" target="_blank"><img src="imagens/civiloc.jpg" alt="Imagem Empresa Civiloc" class="img-responsive" /></a>
 									</div>
 									<p>CIVILOC - Ind/Com.</p>
 								</div>
@@ -330,7 +330,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-										<a href="https://www.editoradobrasil.com.br/" target="_blank"><img src="imagens/editora-do-brasil.jpg" alt="Editora do Brasil" class="img-responsive" /></a>
+										<a href="https://www.editoradobrasil.com.br/" target="_blank"><img src="imagens/editora-do-brasil.jpg" alt="Imagem Empresa Editora do Brasil" class="img-responsive" /></a>
 									</div>
 									<p>Editoria do Brasil</p>
 								</div>
@@ -338,7 +338,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-										<a href="https://www.telematica.com.br/" target="_blank"><img src="imagens/telematica.jpg" alt="Telemática" class="img-responsive" /></a>
+										<a href="https://www.telematica.com.br/" target="_blank"><img src="imagens/telematica.jpg" alt="Imagem Empresa Telemática" class="img-responsive" /></a>
 									</div>
 									<p>Telemática I. Com.</p>
 								</div>
@@ -346,7 +346,7 @@
 							<div class="agileits_testimonial_grid">
 								<div class="w3l_testimonial_grid">
 									<div class="w3l_testimonial_grid_pos">
-									<a href="https://www.dileta.com.br/" target="_blank"><img src="imagens/dileta.jpg" alt="Dileta Ind. e Com." class="img-responsive" /></a>
+									<a href="https://www.dileta.com.br/" target="_blank"><img src="imagens/dileta.jpg" alt="Imagem Empresa Dileta Ind. e Com." class="img-responsive" /></a>
 									</div>
 									<p>Dileta Ind. e Com.</p>
 								</div>

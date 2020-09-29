@@ -17,8 +17,8 @@
             <li class="dropdown menu__item">
                 <a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown">Mais<b class="caret"></b></a>
                 <ul class="dropdown-menu agile_short_dropdown">
-                <li <?php if(basename($_SERVER['PHP_SELF']) == 'atendimento.php'){echo 'menu__item--current'; } else { echo ''; } ?>><a href="atendimento.php" class="menu__link">Atendimento</a></li>
-                <li <?php if(basename($_SERVER['PHP_SELF']) == 'blog.php'){echo 'menu__item--current'; } else { echo ''; } ?>><a href="blog.php" class="menu__link">Blog</a></li>
+                <li <?php if(basename($_SERVER['PHP_SELF']) == 'atendimento.php') {echo 'menu__item--current'; } else { echo ''; } ?>><a href="atendimento.php"  class="menu__link">Atendimento</a></li>
+                <li <?php if(basename($_SERVER['PHP_SELF']) == 'blog.php')        {echo 'menu__item--current'; } else { echo ''; } ?>><a href="blog.php"         class="menu__link">Blog</a></li>
                 <li <?php if(basename($_SERVER['PHP_SELF']) == 'corona-virus.php'){echo 'menu__item--current'; } else { echo ''; } ?>><a href="corona-virus.php" class="menu__link">COVID-19</a></li>
                 </ul>
             </li>
