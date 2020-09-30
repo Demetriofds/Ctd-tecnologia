@@ -235,21 +235,23 @@ p.logo_w3l_agile_caption {   /* verificar*/
     -ms-transition: 0.5s all;
 }
 /*botões do blog*/
-button{
+.btn-blog,
+.btn-avaliar{
     background-color: #5096bc;
     border: 2px solid #5096bc;
-    border-radius: 15px;
+    border-radius: 0.5em;
     font-size: 1.2rem;
-    margin-top: 1rem;
-    width: 100%;
-    text-decoration:none;
-    
+    /* margin-top: 1rem; */
+    width: 80%;
+    margin: 1rem;
+   
 }
-button a:hover{
+.btn-blog a:hover{
     color: #fff ;
+    /* width: 100%; */
 }
 
-button:hover{
+.btn-blog:hover{
     background: rgb(19,19,19);
     color: #fff;
     border: 2px solid rgb(19,19,19);
@@ -534,22 +536,8 @@ button:hover{
     padding-bottom: 1em;
 }
 
-.w3-heading-all a{
-    font-weight: 700;
-    display: block;
-    color: #fff;
-    background-color: #5096bc;
-    text-align: center;
-    /* height: 2em; */
-    margin:1em;
-    padding: 0.5em;
-}
+   
 
-.w3-heading-all a:hover{
-    background: #ffb900;
-    border: 2px solid #ffb900;
-    color: #000;
-}
 /* sobre mudado */
 
 

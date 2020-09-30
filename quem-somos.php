@@ -91,7 +91,7 @@
 									Desta forma sua empresa conseguirá uma gestão mais produtiva. O nosso propósito é prover as pessoas de energia, para realizarem e atingirem todo o seu potencial.</br>
 									Nossa atuação é por meio da capacidade técnica de nossos Analistas.</p>
 
-									<a href=" https://search.google.com/local/writereview?placeid=ChIJW5dSLRRezpQRHmfsKl8G-iQ" target="blank">Avalie nossa empresa aqui.</a>
+									<button class="btn-avaliar"><a href=" https://search.google.com/local/writereview?placeid=ChIJW5dSLRRezpQRHmfsKl8G-iQ" target="blank">Avalie nossa empresa aqui.</a></button>
 								</div>
 							</div>
 						</div>
