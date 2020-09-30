@@ -66,11 +66,14 @@
 	<div class="rs_footer">
 		<div class="container">
 			<div class="icone-facebook">
-				<a href="https://www.facebook.com/ctdtecnologia/"><i class="fa fa-facebook-square"></i> - Facebook</a>
+				<a href="https://www.facebook.com/ctdtecnologia/" target="blank"><i class="fa fa-facebook-square" aria-hidden="true"></i> - Facebook</a>
 			</div>
 			<div class="icone-instagram">
-				<a href="https://www.instagram.com/ctdtecnologia/"><i class="fa fa-instagram"></i> - Instagram</a>
+				<a href="https://www.instagram.com/ctdtecnologia/" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i> - Instagram</a>
 			</div>
+			<div class="icone-linkedin">
+                <a href="https://www.linkedin.com/in/thiagode-jesus/" target="blank"><i class="fa fa-linkedin" aria-hidden="true"></i> - Linkedin</a>
+            </div>
 		</div>
 		<!-- <div class="clearfix"></div> -->
 	</div>

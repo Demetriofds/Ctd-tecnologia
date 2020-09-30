@@ -137,10 +137,10 @@
 
 		 <!-- Novo script 26/09 -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js" integrity="sha512-HaoDYc3PGduguBWOSToNc0AWGHBi2Y432Ssp3wNIdlOzrunCtB2qq6FrhtPbo+PlbvRbyi86dr5VQx61eg/daQ==" crossorigin="anonymous"></script>
-		<!--<script src="js/SmoothScroll.min.js"></script>-->
+		<script src="js/SmoothScroll.min.js"></script>
 		<!-- start-smooth-scrolling -->
-		<script type="text/javascript" src="js/move-top.js"></script>
-		<script type="text/javascript" src="js/easing.js"></script>
+		<script type="text/javascript" src="/js/move-top.js"></script>
+		<script type="text/javascript" src="/js/easing.js"></script>
 		<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){
@@ -150,24 +150,24 @@
 			});
 		</script>
 
-		<!-- here stars scrolling icon -->
-		<script type="text/javascript">
+<!-- here stars scrolling icon -->
+<script type="text/javascript">
 			$(document).ready(function() {
-			
-					var defaults = {
+				
+				var defaults = {
 					containerID: 'toTop', // fading element id
 					containerHoverID: 'toTopHover', // fading element hover id
 					scrollSpeed: 1200,
 					easingType: 'linear'
-					};
+				};
 				
-
+				
 				$().UItoTop({ easingType: 'easeOutQuart' });
-
-				});
-		</script>
+				
+			});
+			</script>
 		<!-- //here ends scrolling icon -->
-
-		<script type="text/javascript" src="js/bootstrap.js"></script> <!-- Necessary-JavaScript-File-For-Bootstrap -->
+		<!-- <script type="text/javascript" src="/js/bootstrap.js"></script> Necessary-JavaScript-File-For-Bootstrap -->
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 	</body>
 </html>

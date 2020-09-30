@@ -163,6 +163,7 @@ p.logo_w3l_agile_caption {   /* verificar*/
 	margin-right:0;
 }
 /* minhas alterações abaixo para rede social*/
+.icone-linkedin,
 .icone-instagram,
 .icone-facebook{
     float: right;
@@ -170,6 +171,7 @@ p.logo_w3l_agile_caption {   /* verificar*/
     margin:0 auto 0 1em;
     padding: .5em;
 }
+.icone-linkedin a,
 .icone-instagram a,
 .icone-facebook a{
 	color: #fff;
@@ -177,6 +179,7 @@ p.logo_w3l_agile_caption {   /* verificar*/
     margin: 0;
     font-weight: 600;
 }
+.icone-linkedin a:hover,
 .icone-instagram a:hover,
 .icone-facebook a:hover {
     color: #fff;
@@ -235,10 +238,12 @@ p.logo_w3l_agile_caption {   /* verificar*/
 button{
     background-color: #5096bc;
     border: 2px solid #5096bc;
+    border-radius: 15px;
     font-size: 1.2rem;
     margin-top: 1rem;
     width: 100%;
-    cursor: pointer;
+    text-decoration:none;
+    
 }
 button a:hover{
     color: #fff ;
@@ -662,6 +667,19 @@ h1 {
 }
 
 /*ajustando o blog pagina blog*/
+.caixas-blog-cor{
+    background-color: #03a9f4;
+}
+/*para implementar a sessão de modulos erp na pagina index*/
+.caixa-blog-modulos-erp{
+    background-color: rgb(80, 150, 188);
+    background-size: cover;
+    min-height:355px;
+}
+/*espaço dentro do sessão modulos-erp na pagina index*/
+.ep {
+    padding:2em;
+}
 .caixas-blog{
     display: flex;
     flex-wrap: wrap;
@@ -825,6 +843,7 @@ h1 {
     background-size: cover;
     min-height:455px;
 }
+
 .w3-services-grids2{
     background: url(/imagens/blog.webp) no-repeat 0px -226px;
     background-color: rgb(5, 43, 94);
@@ -836,13 +855,17 @@ h1 {
     font-size: 3em;
     color: #5096bc;
 }
+
 .w3-services-grid-info {
     margin: 2em 0;
 }
+
+
 .w3-services-grid-right {
     background:rgba(120, 113, 113, 0.32);
     padding: 2em 2em;
 }
+
 .w3-services-grid-right1 h2 {
     color: rgb(255, 255, 255);
     font-size: 1em;
@@ -1013,8 +1036,8 @@ h1 {
 .w3l_testimonial_grid{/*-- //altera a grade do carrosel --*/
     padding: 1em;
 	background: #45668e;
-    margin: 2em 5em 1em 2em;
-    border-radius:10%;
+    margin: 2em 2em 2em 0;
+    border-radius:15%;
 }
  .w3l_testimonial_grid:focus,.agileits_testimonial_grid:focus{
 	outline:none;
@@ -1305,17 +1328,14 @@ h1 {
     background:transparent;
 }
 .slick-dots li button:hover,
-.slick-dots li button:focus
-{
+.slick-dots li button:focus {
     outline: none;
 }
 .slick-dots li button:hover:before,
-.slick-dots li button:focus:before
-{
+.slick-dots li button:focus:before {
     opacity: 1;
 }
-.slick-dots li button:before
-{
+.slick-dots li button:before {
     font-family: 'FontAwesome';
     font-size: 13px;
     line-height: 20px;
@@ -2439,8 +2459,14 @@ border-radius: 10px;
     width: 50%;
     margin: 0 auto;
 }
+
 .w3-services-grid-left1 {
     width: 20%;
+    float: left;
+}
+/*definindo espaco no index*/
+.gn-espaco {
+    width: 80%;
     float: left;
 }
 .w3-services-grid-right1 {
@@ -2451,6 +2477,7 @@ border-radius: 10px;
     width: 50%;
     margin: 2em auto;
 }
+
 .w3ls_footer_grid_left {
     width: 100%;
 }
@@ -2712,6 +2739,7 @@ li.menu__item {
     width: 100%;
     margin: 2em auto;
 }
+
 .w3-heading-all h2,
 .w3-heading-all h3 {
     font-size: 2.5em;

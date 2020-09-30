@@ -6,13 +6,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta charset="utf-8"> <!-- nova tag  -->
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<meta name="description" content="Consultoria, Implantação, Reimplantação de Sistemas, RH, Contábil, CRM, XML, Integração Eletrônica, Suporte Remoto, Inteligência Artificial da TOTVS, " />
+		<meta name="description" content="Consultoria, TOTVS, Implantação, Reimplantação de Sistemas, RH, Contábil, CRM e XML" />
 		<meta name="copyright" content="© 2018 Thiago" />
 		<meta name="geo.region" content="BR-SP" />
 		<meta name="geo.country" content="Brasil" />
 		<meta name="keywords" content="implantação, reimplantação, sistemas, crm, erp, sigma, protheus, totvs, gestão, rh, controle, aplicativos mobile" />
 
-		<meta property="og:url" content="https://www.ctdtecnologia.com.br/" />
+		<meta property="og:url" content="https://www.ctdtecnologia.com.br" />
 		<meta property="og:type" content="article">
 		<meta property="og:title" content="CTD Tecnologia - Sistemas ERP TOTVS Protheus" />
 		<meta property="og:description"  content="A CTD Tecnologia ERP TOTVS Protheus - Implantação e reimplantação de sistemas e integração eletrônica ERP, TOTVS, Protheus. " />
@@ -354,68 +354,80 @@
 						</section>
 					</div>
 				</div>
-			</div><!-- services -->
-			<div class="services" id="services">
-				<div class="w3-heading-all">
-					<h3>serviços</h3>
-				</div>
-				<!-- container -->
-				<div class="w3-services-grids">
-					<div class="col-md-6 w3-services-grid-left"></div>
-					<div class="col-md-6 w3-services-grid-right">
-						<div class=" w3-services-grid-info">
-							<div class="col-md-2 w3-services-grid-left1">
-								<i class="fa fa-check" aria-hidden="true"></i>
-							</div>
-							<div class="w3-services-grid-right1">
-								<h2>Análise e atualização de cadastros e Geração dos Arquivos</h2>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-
-						<div class=" w3-services-grid-info">
-							<div class="col-md-2 w3-services-grid-left1">
-								<i class="fa fa-check" aria-hidden="true"></i>
-							</div>
-							<div class="col-md-10 w3-services-grid-right1">
-								<h2>Instalação do software ERP validador dos arquivos</h2>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-
-						<div class=" w3-services-grid-info">
-							<div class="col-md-2 w3-services-grid-left1">
-								<i class="fa fa-check" aria-hidden="true"></i>
-							</div>
-							<div class="col-md-10 w3-services-grid-right1">
-								<h2>Treinamento dos usuários na geração dos arquivos</h2>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-
-						<div class=" w3-services-grid-info">
-							<div class="col-md-2 w3-services-grid-left1">
-								<i class="fa fa-check" aria-hidden="true"></i>
-							</div>
-							<div class="col-md-10 w3-services-grid-right1">
-								<h2>Validação dos arquivos junto aos órgãos competentes</h2>
-							</div>
-						</div>
-
-						<div class="clearfix"></div>
-
-						<!--link botão para a pagina serviços-->
-						<div class="col-md-6 w3-services-grid-right1">
-							<div class="more">
-								<a href="servicos-erp.php">Link -> Serviços ERP</a>
-							</div>
-						</div>
-					</div>
-
-				</div>
-				<!-- //container -->
 			</div>
-			<!-- //services -->
+			
+			<div class="clearfix"> </div>
+			<div class="w3_agile_team_grid">
+				<div class="w3-heading-all">
+					<h3>Especialidades e módulos ERP</h3>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="caixa-blog-modulos-erp">
+				<Section class="caixas-blog ep">
+					<div class="alert alert-info" role="alert">
+						<h2>Consultoria</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Gestão financeira</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Integração de Sistemas</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Suporte remoto</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Gestão de Contabilidade</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Gestão Fiscal</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Sistema ERP TOTVS</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Gestão Estoque</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>linguagem ADVPL</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Gestão de faturamento</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Fábrica de software</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Gestão de Compras</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Legislação</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Gestão de custos</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Treinamento empresarial</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Analistas treinados</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Armazenamento XML</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Implantação de sistemas</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>Re-Implant. de sistemas</h2>
+					</div>
+					<div class="alert alert-info" role="alert">
+						<h2>ERP Totvs Protheus</h2>
+					</div>
+				</Section>
+			</div>
+
 
 		</div>
 		<?php include_once('includes/rodape.php'); ?>
@@ -521,15 +533,15 @@
 				dots: true,
 				infinite: true,
 				centerMode: true,
-				slidesToShow: 3,
-				slidesToScroll: 3,
+				slidesToShow: 4,
+				slidesToScroll: 4,
 				responsive: [
 					{
 					  breakpoint: 768,
 					  settings: {
 						arrows: true,
 						centerMode: false,
-						slidesToShow: 2
+						slidesToShow: 4,
 					  }
 					},
 					{
@@ -538,7 +550,7 @@
 						arrows: true,
 						centerMode: false,
 						centerPadding: '40px',
-						slidesToShow: 1
+						slidesToShow: 1,
 					  }
 					}
 				 ]
