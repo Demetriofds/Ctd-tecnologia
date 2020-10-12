@@ -8,6 +8,7 @@
                 <a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown">ERP<b class="caret"></b></a>
                 <ul class="dropdown-menu agile_short_dropdown">
                     <li class="<?php if(basename($_SERVER['PHP_SELF']) == 'servicos-erp.php'){echo 'menu__item--current'; } else { echo ''; } ?>"><a href="servicos-erp.php" class="menu__link">Serviços</a></li>
+                    <li class="<?php if(basename($_SERVER['PHP_SELF']) == 'protheus.php'){echo 'menu__item--current'; } else { echo ''; } ?>"><a href="protheus.php" class="menu__link">Protheus</a></li>
                     <li class="<?php if(basename($_SERVER['PHP_SELF']) == 'integracao.php'){echo 'menu__item--current'; } else { echo ''; } ?>"><a href="integracao.php" class="menu__link">Integração</a></li>
                     <li class="<?php if(basename($_SERVER['PHP_SELF']) == 'legislacao.php'){echo 'menu__item--current'; } else { echo ''; } ?>"><a href="legislacao.php" class="menu__link">Legislação</a></li>
                     <li class="<?php if(basename($_SERVER['PHP_SELF']) == 'consultoria.php'){echo 'menu__item--current'; } else { echo ''; } ?>"><a href="consultoria.php" class="menu__link">Consultoria</a></li>

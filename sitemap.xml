@@ -1,78 +1,97 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://ctdtecnologia.com.br/</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://ctdtecnologia.com.br/</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/index.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/index.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/quem-somos.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/quem-somos.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/servicos-erp.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/servicos-erp.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/integracao.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/protheus.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/legislacao.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/integracao.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/consultoria.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/legislacao.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/contato.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/consultoria.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/atendimento.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/contato.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/blog.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/atendimento.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/corona-virus.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://ctdtecnologia.com.br/blog.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/blog/promocao.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://ctdtecnologia.com.br/corona-virus.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/blog/prorrogacao-de-prazo.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://ctdtecnologia.com.br/blog/nova-versao-do-validador.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/blog/o-que-e-erp.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://ctdtecnologia.com.br/blog/modulos-erp.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://ctdtecnologia.com.br/blog/modulos-erp.php</loc>
-<lastmod>2020-09-22T04:42:38+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://ctdtecnologia.com.br/blog/o-que-e-erp.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://ctdtecnologia.com.br/blog/prorrogacao-de-prazo.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ctdtecnologia.com.br/blog/promocao.php</loc>
+  <lastmod>2020-10-09T11:18:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>

@@ -43,19 +43,19 @@
          			 'sitekey' : '6LcC9ucUAAAAAJAdDF0rL7koB5Hm8a90pVyZYZJ-'
       			});
       		};
-    </script>
+    	</script>
 		<script src="https://www.google.com/recaptcha/api.js"></script>
 
 		<!--Script para mascara do campo celular do formulários -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
 
-	<script	script type="text/javascript">
-		$("#data").mask("00/00/0000");
-		$("#telefone").mask("(00) 0000-0000");
-		$("#telcom").mask("(00) 0000-0000");
-		$("#fone").mask("(00) 00000-0000");
-	</script>
+		<script	script type="text/javascript">
+			$("#data").mask("00/00/0000");
+			$("#telefone").mask("(00) 0000-0000");
+			$("#telcom").mask("(00) 0000-0000");
+			$("#fone").mask("(00) 00000-0000");
+		</script>
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -156,7 +156,7 @@
 				</div>
 
 				<div class="col-md-7 contact-form">
-					<form name="MeuFormulario" method="POST" enctype="multipart/form-data"> action="envia-email.php" autocomplete="off">
+					<form name="MeuFormulario" method="POST" enctype="multipart/form-data" action="envia-email.php" autocomplete="off">
 					<!-- //formatação para o formulário adicionado enctype="multipart/form-data"> -->
 
 						<fieldset>

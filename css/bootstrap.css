@@ -1092,7 +1092,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #fff;
+  color: #ee8c0d;
   text-decoration: none;
 }
 a:hover,
@@ -1284,11 +1284,13 @@ h6,
 p {
   margin: 0 0 10px;
 }
+/* coloquei o justify para alinhar o texto na pagina protheus*/
 .lead {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
+  text-align: justify;
 }
 @media (min-width: 768px) {
   .lead {

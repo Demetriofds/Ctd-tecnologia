@@ -140,10 +140,10 @@
 						</div>
 						<div class="col-md-6 about-right ">
 							<h3>CTD TECNOLOGIA - CONSULTORIA TOTVS PROTHEUS</h3>
-							<p>A CTD Tecnologia Consultoria é uma empresa homologada TOTVS, que implanta e reimplanta sistemas CRM, Protheus, para isso existem vários processos que disponibilizamos afim de realizar a integração eletrônica e em tempo real.</p></br>
-							<p>Trabalhamos com importantes empresas e dos mais variados portes e seguimentos. Somos focados em oferecer os melhores softwares, os mais inovadores do mercado, proporcionando competitividade e apoio estratégico a você e ao seu negócio.</p></br>
+							<p>A CTD Tecnologia Consultoria é uma empresa homologada TOTVS, que implanta e reimplanta sistemas CRM, Protheus, para isso existem vários processos que disponibilizamos afim de realizar a integração eletrônica e em tempo real.</p>
+							<p>Trabalhamos com importantes empresas e dos mais variados portes e seguimentos. Somos focados em oferecer os melhores softwares, os mais inovadores do mercado, proporcionando competitividade e apoio estratégico a você e ao seu negócio.</p>
 							<h3>Suporte decisivo à gestão de sua empresa</h3>
-							<p>Por ser um canal homologado da empresa TOTVS, realizamos consultoria, treinamentos, vendas direta de soluções e execução completa de projetos em pequenas, médias e grandes empresas.</p></br>
+							<p>Por ser um canal homologado da empresa TOTVS, realizamos consultoria, treinamentos, vendas direta de soluções e execução completa de projetos em pequenas, médias e grandes empresas.</p>
 							<p>Nós focamos em resultados e possuímos o melhor para seu negócio, profissionais qualificados e especialistas, preparados para apoiar sua empresa com as principais ferramentas de gestão do mercado.</P>
 
 							<div class="more">
